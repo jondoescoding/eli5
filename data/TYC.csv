@@ -1,0 +1,442 @@
+TITLE,URL,DONE
+The History and Evolution of Money,https://lifemathmoney.com/the-history-and-evolution-of-money/,0.0
+What is Bitcoin and how does it work?,https://youtu.be/bBC-nXj3Ng4,0.0
+What is a cryptographic hash function,https://www.youtube.com/watch?v=0WiTaBI82Mc,0.0
+How hard is it to reverse a cryptographic hash?,https://www.youtube.com/watch?v=S9JGmA5_unY,0.0
+Summary video,https://www.youtube.com/watch?v=GSIDS_lvRv4,0.0
+What are Digital Signatures?,https://www.youtube.com/watch?v=s22eJ1eVLTU,0.0
+The basic concepts of bitcoin,https://youtu.be/FYo5E7zT-vM,0.0
+Bitcoin Blockchain Consensus,https://www.youtube.com/watch?v=f1ZJPEKeTEY,0.0
+Disambiguating the word “Consensus”,https://en.bitcoin.it/wiki/Consensus,0.0
+Disambiguating the word “fork”,https://en.bitcoin.it/wiki/Fork_(disambiguation),0.0
+What is Nakamoto Consensus,https://blockonomi.com/nakamoto-consensus/,0.0
+What is the role of nodes,https://www.youtube.com/watch?v=fNk7nYxTOyQ,0.0
+Types of nodes and forks,https://nodes.com/,0.0
+Byzantine Fault Tolerance,https://www.youtube.com/watch?v=VWG9xcwjxUg,0.0
+Proof of Work,https://www.youtube.com/watch?v=9V1bipPkCTU,0.0
+What is a 51% Attack,https://www.youtube.com/watch?v=BuTj9raHQOU,0.0
+What is a Bitcoin Wallet and types of bitcoin wallets?,https://www.youtube.com/watch?v=A1Pl5hYHXiI,0.0
+Visual explanation of wallets,https://www.youtube.com/watch?v=d8IBpfs9bf4,0.0
+The full text,https://bitcoin.org/bitcoin.pdf,0.0
+Explanation,https://static1.squarespace.com/static/567bb4f069a91a95348fa0b2/t/5cd27c8bb208fcb3a45d2196/1557298317565/Intrepid+Ventures+Bitcoin+White+Paper+Made+Simple.pdf,0.0
+The BIP approval process,https://www.youtube.com/watch?v=NJqAuZGg1gU,0.0
+BIP list (for reference),https://github.com/bitcoin/bips,0.0
+Video Introduction,https://www.youtube.com/watch?v=rrr_zPmEiME,0.0
+Understanding the Bitcoin lightning network,https://jaspa.codes/site/2021/01/11/lightning-network.html,0.0
+Understanding the Lightning Network Part I,https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791,0.0
+Part II,https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-creating-the-network-1465326903,0.0
+Part III,https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-completing-the-puzzle-and-closing-the-channel-1466178980,0.0
+Transactions in depth Part 1,https://www.youtube.com/watch?v=Em8nJN8IEes&t,0.0
+Transactions in depth Part 2,https://www.youtube.com/watch?v=f9nxuhLSyOg,0.0
+Transaction Malleability,https://www.coindesk.com/bitcoin-bug-guide-transaction-malleability,0.0
+What is Segwit,https://www.youtube.com/watch?v=f3CFUbeehc8,0.0
+The Script language,https://youtu.be/6Fa04MnURhw,0.0
+More Segwit,https://medium.com/softblocks/segregated-witness-for-dummies-d00606e8de63,0.0
+Merkle Roots and Merkle Trees,https://www.youtube.com/watch?v=gUwXCt1qkBU,0.0
+Merkle Proofs,https://www.youtube.com/watch?v=2kPFSoknlUU,0.0
+Data corruption and Merkle trees,https://www.youtube.com/watch?v=rsx1nt2bxf8,0.0
+How SPV nodes use Merkle trees,https://www.yourdevopsguy.com/merkle-trees-and-bitcoin/,0.0
+How SPV nodes communicate with full nodes,https://www.youtube.com/watch?v=WSlvBfLGU5I,0.0
+What are bloom filters and why they exist,https://www.youtube.com/watch?v=gBygn3cVP80,0.0
+Bloom Filters and SPV nodes within the Bitcoin blockchain,https://tara-annison.medium.com/bloom-filters-and-spv-nodes-within-the-bitcoin-blockchain-66c36ea673f2,0.0
+Bloom Filters and SPV,https://www.yourdevopsguy.com/bloom-filters-and-bitcoin/,0.0
+Elliptic Curve Cryptography,https://www.youtube.com/watch?v=dCvB-mhkT0w,0.0
+Quantum Computing Risks,https://www.youtube.com/watch?v=wlzJyp3Qm7s,0.0
+Schnorr signatures,https://bitcoincore.org/en/2017/03/23/schnorr-signature-aggregation/,0.0
+Taproot,https://bitcoinmagazine.com/technical/taproot-coming-what-it-and-how-it-will-benefit-bitcoin,0.0
+Can you spend unconfirmed receipts?,https://bitcoin.stackexchange.com/questions/69937/accidentrally-spent-from-unconfirmed-transaction,0.0
+What happens if your transaction is never confirmed?,https://bitcoin.stackexchange.com/questions/21901/what-happens-if-your-transaction-is-never-confirmed,0.0
+Why does each block store a Merkle root?,https://bitcoin.stackexchange.com/questions/48928/why-does-each-block-store-a-merkle-root,0.0
+What’s the difference between SegWit and Native SegWit Address,https://www.ledger.com/academy/difference-between-segwit-and-native-segwit,0.0
+Electrical Consumption,https://news.bitcoin.com/bitcoin-energy-consumption-is-far-more-efficient-and-greener-than-todays-banking-system/,0.0
+Coins and Tokens,https://www.youtube.com/watch?v=c7TsIb8KyB8,0.0
+Incentives,https://www.youtube.com/watch?v=Q8KtQ3uM1tk,0.0
+Is Bitcoin Ruled by Miners?,https://en.bitcoin.it/wiki/Bitcoin_is_not_ruled_by_miners,0.0
+What is Economic Majority?,https://en.bitcoin.it/wiki/Economic_majority,0.0
+Common Myths about Bitcoin,https://en.bitcoin.it/wiki/Myths,0.0
+"Bitcoin Auction: 10,000.00 BTC — Starting Bid 50.00 USD",https://bitcointalk.org/index.php?topic=92.0,0.0
+The Story of The Bitcoin Pizza,https://www.cryptowisser.com/the-story-of-the-bitcoin-pizza/,0.0
+History of Bitcoin,https://en.wikipedia.org/wiki/History_of_bitcoin,0.0
+The rise and fall of Mt. Gox,https://www.youtube.com/watch?v=9lJP22qa6Ak,0.0
+The Long Road To SegWit: How Bitcoin’s Biggest Protocol Upgrade Became Reality,https://bitcoinmagazine.com/technical/the-long-road-to-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality,0.0
+What is Bitcoin Cash (BCH)?,https://en.wikipedia.org/wiki/Bitcoin_Cash,0.0
+What is Bitcoin SV (BSV),https://www.youtube.com/watch?v=4VWtZpIJPRM,0.0
+High level overview,https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant/,0.0
+Finite State Machines,https://www.youtube.com/watch?v=-Yicg2TTMPs&list=PLn8PRpmsu08pHsOznk_WT6QT9cySw1A59,0.0
+What is a Smart Contract?,https://lifemathmoney.com/what-is-a-smart-contract-explained-with-real-world-examples/,0.0
+Video,https://www.youtube.com/watch?v=0wtgYXnkur0,0.0
+What is Ethereum and how does it work?,https://lifemathmoney.com/what-is-ethereum-and-how-it-works-in-simple-terms/,0.0
+Video,https://www.youtube.com/watch?v=uJzUdCNJKQU,0.0
+What is Gas and what role does it play?,https://lifemathmoney.com/ethereum-gas-and-how-it-works-explained-in-simple-terms/,0.0
+Video,https://www.youtube.com/watch?v=Yh8cHUB-KoU,0.0
+Block rewards and gas fees,https://www.youtube.com/watch?v=RPbQ5FxuCWw,0.0
+Incentives o,https://ethgasstation.info/blog/ethereum-uncle-rate/,0.0
+n,https://ethgasstation.info/blog/ethereum-uncle-rate/,0.0
+uncled blocks,https://ethgasstation.info/blog/ethereum-uncle-rate/,0.0
+UTXO vs Nonce Increments,https://www.yourdevopsguy.com/utxo-and-account-based-blockchains/,0.0
+Transactions in depth,https://kctheservant.medium.com/transactions-in-ethereum-e85a73068f74,0.0
+Ethereum Virtual Machine,https://www.youtube.com/watch?v=BsDq2mzC5tk,0.0
+Installing Metamask,https://www.youtube.com/watch?v=CmpKKTRnJsw,0.0
+Getting Test Ether,https://youtu.be/f_AFrBW8V0I,0.0
+Simple Smart Contract Example Explained,https://youtu.be/JavvPruQNeg,0.0
+How to Compile and Deploy a Smart Contract,https://youtu.be/EeKhkovqD2E,0.0
+The Problem With Random Number Generation in Ethereum,https://youtu.be/Soy55Up4Bqc,0.0
+What is EIP 1559,https://www.youtube.com/watch?v=MGemhK9t44Q,0.0
+EIP 1559 from a miner’s perspective,https://www.youtube.com/watch?v=o1ueFKQsiHQ,0.0
+"What is Ethereum 2.0, explained with timeline",https://www.youtube.com/watch?v=M4eD6qQtmoc,0.0
+Official docs,https://ethereum.org/en/eth2/,0.0
+What is Proof of Stake,https://www.youtube.com/watch?v=0RhJBZGnOLQ,0.0
+PoS vs PoW,https://www.youtube.com/watch?v=SiKnWBPkQ4I&t=3s,0.0
+Sharding,https://www.youtube.com/watch?v=OvIH3uP6tPE,0.0
+What is Layer 2 Scaling?,https://www.youtube.com/watch?v=BgCgauWVTs0,0.0
+The Prehistory,https://vitalik.ca/general/2017/09/14/prehistory.html,0.0
+The History,https://ethereum.org/en/history/,0.0
+The DAO Hack and Smart Contracts on Ethereum,https://www.youtube.com/watch?v=k_aVpSSx-Qg,0.0
+Ethereum Classic?,https://en.wikipedia.org/wiki/Ethereum_Classic,0.0
+How the DAO Hack Changed Ethereum,https://www.youtube.com/watch?v=unOp-r4-YrE,0.0
+The Lion and the Shark: Divergent Evolution in Cryptocurrency,https://www.youtube.com/watch?v=d0x6CtD8iq4,0.0
+The Ultimate Guide to Crypto Tokens,https://www.yourdevopsguy.com/the-ultimate-guide-to-crypto-tokens/,0.0
+ERC 20,https://www.youtube.com/watch?v=cqZhNzZoMh8,0.0
+ERC 721,https://www.youtube.com/watch?v=4__ysqwOz4Q,0.0
+Art NFTs and Trading Platforms,https://www.one37pm.com/nft/art/guide-to-nfts-beginner,0.0
+What are Wrapped Tokens,https://www.youtube.com/watch?v=SjdJWr8hgRY,0.0
+How token wrapping and unwrapping works,https://blog.liquid.com/wrapped-tokens,0.0
+How to wrap Ethereum to wETH,https://www.youtube.com/watch?v=Joc1Mc7DrzM,0.0
+How apps work?,https://www.youtube.com/watch?v=nMtgFZSdtwk,0.0
+What is a DApp,https://www.youtube.com/watch?v=F50OrwV6Uk8,0.0
+Introduction to DApps,https://ethereum.org/en/developers/docs/dapps/,0.0
+How to play Cryptokitties,https://www.youtube.com/watch?v=dWUi8dkv5qU,0.0
+Examining the Cryptokitties codebasae,https://www.youtube.com/watch?v=jMfyxodOxKQ,0.0
+Find and explore more DApps,https://dappradar.com/,0.0
+What is Domain Name System (DNS),https://www.youtube.com/watch?v=72snZctFFtA,0.0
+Namecheap,https://namecheap.pxf.io/xomby,0.0
+What is ENS?,https://www.youtube.com/watch?v=P8RlPsjGaR8,0.0
+ENS Architecture,https://docs.ens.domains/,0.0
+Register an ENS Domain,https://www.youtube.com/watch?v=817wMnBb8Fo,0.0
+ENS FAQ,https://app.ens.domains/faq,0.0
+What is an Oracle,https://www.youtube.com/watch?v=m64dLRjJ9Bs,0.0
+Why do we need Oracles,https://blog.chain.link/oracles-the-key-to-unlocking-smart-contracts/,0.0
+What is the Oracle problem?,https://www.youtube.com/watch?v=ZJfkNzyO7-U,0.0
+Chainlink and the Oracle Problem,https://blog.chain.link/what-is-the-blockchain-oracle-problem/,0.0
+What is Chainlink,https://www.youtube.com/watch?v=GnXsJe2wZ_w,0.0
+How does Chainlink work,https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work,0.0
+Tokenomics and use cases,https://www.youtube.com/watch?v=yFZ5L0jtZEI,0.0
+Chainlink factsheet,https://drive.google.com/file/d/1HUGfUzOK4SxhGZ7Kqiv5MKHYXo3XZyQu/view,0.0
+ERC-677 Tokens,http://blockchainers.org/index.php/tag/erc-677/,0.0
+What is a DAO,https://www.youtube.com/watch?v=KHm0uUPqmVE,0.0
+Discussion on DAOs,https://www.youtube.com/watch?v=wq3CX4X-cxg,0.0
+DAO voting tutorial,https://www.youtube.com/watch?v=I8xQhG5l8E4,0.0
+What is Web 3.0,https://www.youtube.com/watch?v=nHhAEkG1y2U,0.0
+Web2 vs Web3,https://ethereum.org/en/developers/docs/web2-vs-web3/,0.0
+The meaning of decentralization,https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274,0.0
+Why decentralization matters,https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e,0.0
+Why web3 matters,https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b,0.0
+What is IPFS,https://www.youtube.com/watch?v=5Uj6uR3fp-U,0.0
+What is Filecoin,https://www.youtube.com/watch?v=NOazY8qvSts,0.0
+Tutorial: How to upload and access files on IPFS,https://www.youtube.com/watch?v=I0UolzV3ico,0.0
+The IPFS Protocol,https://www.youtube.com/watch?v=PlvMGpQnqOM,0.0
+Importance of decentralized storage,https://www.protocol.com/ipfs-new-internet,0.0
+High level overview,https://www.youtube.com/watch?v=Pl_lUvThvjc,0.0
+The Graph explained,https://www.youtube.com/watch?v=7gC7xJ_98r8,0.0
+What is an Application Programming interface (API),https://www.youtube.com/watch?v=Yzx7ihtCGBs,0.0
+Before and after The Graph,https://ethereum.org/en/developers/tutorials/the-graph-fixing-web3-data-querying/,0.0
+How Does The Graph Fit Into DeFi and Web3,https://coinmarketcap.com/alexandria/article/a-deep-dive-into-the-graph,0.0
+Part 1,https://thegraph.com/blog/the-graph-network-in-depth-part-1,0.0
+Part 2,https://thegraph.com/blog/the-graph-network-in-depth-part-2,0.0
+The Architecture of a web 3.0 application,https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application,0.0
+How the traditional financial system works,https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/banking-and-money/v/banking-1,0.0
+Introduction to DeFi,https://www.youtube.com/watch?v=hMBOjQM9k1E,0.0
+Linking TradFi to DeFi,https://podcast.lifemathmoney.com/e/linking-tradfi-to-defi-traditional-finance-to-decentralized-finance/,0.0
+Volatility,https://www.youtube.com/watch?v=3_jjS3x3oC0,0.0
+Liquidity,https://www.youtube.com/watch?v=XtjS7CfUSsA,0.0
+Collateral,https://www.youtube.com/watch?v=gu1tsc_Hb_A,0.0
+concept,https://www.investopedia.com/trading/floating-rate-vs-fixed-rate/,0.0
+comparison,https://www.youtube.com/watch?v=5FaNeRH-GLY,0.0
+Pegged Currency,https://www.youtube.com/watch?v=2gSzdgl0GpE,0.0
+What is a stablecoin and why we need them,https://www.youtube.com/watch?v=GsSSLDzKCOE,0.0
+Types of stablecoins and comparison,https://www.youtube.com/watch?v=zY2M6eEZDG0,0.0
+Tether (USDT),https://www.youtube.com/watch?v=Kt0HlIP06d8,0.0
+What is Dai and MakerDAO,https://www.youtube.com/watch?v=oRXueC3pcD8,0.0
+How to Setup a CDP Vault on MakerDAO,https://3speak.tv/watch?v=khaleelkazi/ieuehnum,0.0
+MakerDAO Mechanism Design,https://www.youtube.com/watch?v=jCwDZOcCBPA,0.0
+Shares/stocks,https://www.youtube.com/watch?v=fn3y1hNVgA4,0.0
+Financial instrument,https://www.youtube.com/watch?v=FLTlefifGYE,0.0
+Order Book,https://www.youtube.com/watch?v=u9RIA1uUbAs,0.0
+Markets,https://www.youtube.com/watch?v=Mf_1NJTswwU,0.0
+Exchanges,https://www.youtube.com/watch?v=XNOK_Gm2mwI,0.0
+Broker-Dealer,https://www.youtube.com/watch?v=c8fq1XTY8Ys,0.0
+Market Maker,https://www.youtube.com/watch?v=1WO1GmrIlS0,0.0
+Market Index,https://www.youtube.com/watch?v=WA3Jhvm4W9k,0.0
+Long and Short,https://www.youtube.com/watch?v=fXnCtGcvqdk,0.0
+Leverage,https://www.youtube.com/watch?v=7CWjZuU2g2A,0.0
+Margin,https://www.youtube.com/watch?v=kTZxQV4eku4,0.0
+Counterparty and counterparty risk,https://www.youtube.com/watch?v=KjTCqqI0zR8,0.0
+Trade Slippage,https://www.youtube.com/watch?v=bC8nXAVYqRg,0.0
+What is a Decentralized Exchange (DEX),https://www.youtube.com/watch?v=eGbEbFZl4yw,0.0
+How Layer 1 order book DEXs work,https://www.youtube.com/watch?v=rnVi-b7UqmY,0.0
+Atomic Swap,https://www.youtube.com/watch?v=fh-i8lVhN9o,0.0
+What is an AMM,https://www.youtube.com/watch?v=1PbZMudPP5E,0.0
+What is a liquidity pool,https://www.youtube.com/watch?v=dVJzcFDo498,0.0
+How do liquidity pools work,https://www.youtube.com/watch?v=cizLhxSKrAc,0.0
+"AMM math, concept, and need",https://www.youtube.com/watch?v=Ui1TBPdnEJU,0.0
+Summary,https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm,0.0
+Impermanent Loss,https://www.youtube.com/watch?v=_m6Mowq3Ptk,0.0
+Rug Pulls,https://www.youtube.com/watch?v=YFaqng3YESE,0.0
+The story of Uniswap,https://www.youtube.com/watch?v=LpjMgS4OVzs,0.0
+How Uniswap Works,https://www.youtube.com/watch?v=wJGabFwttWI,0.0
+Uniswap v3,https://www.youtube.com/watch?v=ClWR1570UQw,0.0
+What is slippage,https://www.youtube.com/watch?v=47QfluDczn0,0.0
+Frontrunning and sandwich attacks,https://www.youtube.com/watch?v=eRkneYNXQOY,0.0
+Balancer,https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9,0.0
+What is Curve Finance,https://medium.com/coinmonks/what-is-curve-finance-18c0b1448f43,0.0
+How the math behind Curve Finance Works,https://www.youtube.com/watch?v=1SN7zKlb5pk,0.0
+What is Bancor and BNT,https://www.youtube.com/watch?v=sdd5TToLv9o,0.0
+How does the Impermanent Loss Insurance Work (Bancor v2.1),https://www.youtube.com/watch?v=6YA61LeJqE8,0.0
+More on Impermanent Loss Insurance and Single Sided Liquidity,https://newsletter.banklesshq.com/p/how-to-protect-yourself-from-impermanent,0.0
+Token Bonding Curves and Token Valuation,https://www.youtube.com/watch?v=sLD_jFUFMqA,0.0
+Token Bonding Curve Algorithms for Autonomous Market Makers (DEX),https://www.youtube.com/watch?v=842acSWmBC4,0.0
+What is dYdX,https://www.youtube.com/watch?v=NaoETC01WmY,0.0
+How dYdX works and product demo,https://www.youtube.com/watch?v=Q6ojMaTuGbc,0.0
+Loopring,https://www.youtube.com/watch?v=k_oAgPQfsqg,0.0
+What is a DEX Aggregator,https://www.youtube.com/watch?v=tXH94BP6MZQ,0.0
+What is 1inch and how it works,https://www.youtube.com/watch?v=PSdNpiYpn6Q,0.0
+How to use 1inch,https://www.youtube.com/watch?v=PWtVAAGKTXI,0.0
+Money market,https://www.youtube.com/watch?v=ipOYM0sfW7M,0.0
+Peer to Peer Lending,https://www.youtube.com/watch?v=DigX5s8Eifc,0.0
+Annual Percentage Rate (APR),https://www.youtube.com/watch?v=RuPMsK0mQC8,0.0
+Total value Locked (TVL),https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl,0.0
+Introduction to decentralized lending and borrowing,https://www.youtube.com/watch?v=aTp9er6S73M,0.0
+What is Compound and what are cTokens,https://academy.moralis.io/blog/the-ultimate-guide-to-compounds-ctokens,0.0
+How to use Compound Finance,https://www.youtube.com/watch?v=sIIg2owOz3w,0.0
+Compound Protocol Math,https://compound.finance/docs#protocol-math,0.0
+Governance and vision,https://youtu.be/rg4PF0z2dLU?t=1351,0.0
+What is Aave,https://www.youtube.com/watch?v=WwE3lUq51gQ,0.0
+Aave concepts and how to borrow and lend on Aave,https://www.finder.com/aave,0.0
+resource 1,https://www.youtube.com/watch?v=roiAt9YKm54,0.0
+resource 2,https://www.youtube.com/watch?v=IDzdrM4xjYw,0.0
+resource 1,https://www.youtube.com/watch?v=mCJUhnXQ76s,0.0
+resource 2,https://www.youtube.com/watch?v=YiF6x193fRk,0.0
+How to use flash loans with code,https://www.youtube.com/watch?v=_GZHt-FVAQs,0.0
+Derivatives,https://www.youtube.com/watch?v=m3im-iJdhv4,0.0
+Hedging,https://www.youtube.com/watch?v=AEuCl2FmJ-Y,0.0
+Swaps,https://www.youtube.com/watch?v=uVq384nqWqg,0.0
+Futures,https://www.youtube.com/watch?v=1Mhk4UHJsRc,0.0
+Options – calls and puts,https://www.youtube.com/watch?v=VJgHkAqohbU,0.0
+What are decentralized derivatives?,https://www.youtube.com/watch?v=QxoqPZRw9y4,0.0
+What is Synthetix and product demo,https://www.youtube.com/watch?v=w40PM5Ma-pQ,0.0
+How does Synthetix work?,https://www.youtube.com/watch?v=vl4WRFo3hjg,0.0
+Introduction to DeFi Option Protocols,https://www.youtube.com/watch?v=I6YBik5i8iU,0.0
+What is Opyn and how it works,https://www.youtube.com/watch?v=KtYLCLp6i6o,0.0
+How to use Opyn,https://www.youtube.com/watch?v=wr4jaCG8zmk,0.0
+Market Index,https://www.youtube.com/watch?v=WA3Jhvm4W9k,0.0
+resource 1,https://www.educba.com/fund-management/,0.0
+resource 2,https://www.youtube.com/watch?v=XBuX_MZ_-_E,0.0
+Mutual Funds,https://www.youtube.com/watch?v=ihfHMI4XUDk,0.0
+Hedge Funds,https://www.youtube.com/watch?v=r4roG2fcPXE,0.0
+Index Funds,https://www.youtube.com/watch?v=3rFjS2yNjqc,0.0
+What is Set Protocol,https://www.youtube.com/watch?v=nYXuN3TfX7w,0.0
+More on Set Protocol,https://www.youtube.com/watch?v=5hHg6spjvdc,0.0
+Even more on Set Protocol,https://docs.tokensets.com/,0.0
+How to choose a Set,https://help.tokensets.com/en/articles/3691319-how-to-choose-a-set,0.0
+What is the difference between Social Trading and Robo Sets?,https://help.tokensets.com/en/articles/3637028-what-is-the-difference-between-social-trading-and-robo-sets,0.0
+DeFi Pulse Index,https://defipulse.com/blog/defi-pulse-index/,0.0
+How to Buy the DeFi Pulse Index,https://www.youtube.com/watch?v=kVou8QNABxE,0.0
+What is Zapper,https://zapperfi.zendesk.com/hc/en-us/articles/4416192698641-What-is-Zapper-,0.0
+How to use Zapper,https://www.youtube.com/watch?v=VtXB-NJMjMc,0.0
+What is Instadapp,https://www.youtube.com/watch?v=SEE-YUkd1Gk,0.0
+What services does Instadapp provide,https://phemex.com/academy/what-is-instadapp-defi,0.0
+Need for InstaDApp,https://www.veradiverdict.com/p/what-is-instadapp,0.0
+Instadapp tutorial,https://www.youtube.com/watch?v=vX-KH8amdLg,0.0
+Yield,https://www.youtube.com/watch?v=R5zTPu6aJrg,0.0
+Concept of Yield Farming,https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi,0.0
+What is Yearn Finance,https://www.youtube.com/watch?v=qG1goOptZ5w,0.0
+What are Yearn Vaults,https://www.youtube.com/watch?v=9vTaNl2_B8A,0.0
+How to use Yearn finance,https://www.youtube.com/watch?v=GRlc9QSC2qA,0.0
+Yield Farming,https://www.youtube.com/watch?v=LaeI5D6NDvw,0.0
+Degen Yield Farming,https://www.youtube.com/watch?v=i0GI6GwEWDQ,0.0
+Blockchain Bridge,https://www.youtube.com/watch?v=nT26cIz8HjI,0.0
+Sidechain,https://www.youtube.com/watch?v=l6h50Omq_hs,0.0
+Block Explorer,https://www.youtube.com/watch?v=UkmaHUPQ3r8,0.0
+On and Off Ramps,https://www.youtube.com/watch?v=r3mOV8Anc3Q,0.0
+xDai,https://www.youtube.com/watch?v=0IE-XAnayrg,0.0
+What is Sablier,https://www.youtube.com/watch?v=p4Rk5c5d7Rg,0.0
+Use cases and tutorial,https://www.youtube.com/watch?v=0qrrfTZ7iAA,0.0
+PID Controller,https://www.youtube.com/watch?v=sFqFrmMJ-sg,0.0
+What are Algorithmic Stablecoins,https://101blockchains.com/algorithmic-stablecoins/,0.0
+Stablecoin Algorithms,https://www.youtube.com/watch?v=S7-rfvpEpJs,0.0
+Iron Finance (and it’s collapse),https://www.youtube.com/watch?v=HUokre-szPg,0.0
+What is Frax,https://www.youtube.com/watch?v=qLMBlYoEf9E,0.0
+The economics of Frax,https://www.youtube.com/watch?v=nL5zQfFZ8aU,0.0
+Olympus,https://www.youtube.com/watch?v=o699i_l_qy8,0.0
+Magic Internet Money,https://www.youtube.com/watch?v=yu3lCH_qffM,0.0
+Prediction Markets,https://www.youtube.com/watch?v=jYLgRo8upO0,0.0
+What are Decentralized Prediction Markets,https://www.youtube.com/watch?v=_PCYx5Nk7zU,0.0
+Why we need Decentralized Prediction Markets,https://hackernoon.com/the-rise-of-crypto-predictions-on-decentralized-prediction-markets-lr8b35ll,0.0
+What is Augur,https://www.kraken.com/learn/what-is-augur-rep,0.0
+Overview and how to use Augur,https://www.youtube.com/watch?v=ZRd9nNA4-pY,0.0
+What is Omen,https://www.youtube.com/watch?v=BJsgogPyWUs,0.0
+More on Omen,https://dyor-crypto.fandom.com/wiki/Omen_(OMN),0.0
+How to use Omen,https://blog.gnosis.pm/how-and-why-to-use-omen-on-xdai-c7053bff44c4,0.0
+How lotteries work,https://lottolibrary.com/how-do-lotteries-make-money/,0.0
+Overview of PoolTogether,https://docs.pooltogether.com/faq/general,0.0
+What is PoolTogether,https://www.youtube.com/watch?v=-QjnvmCQdoE,0.0
+How to use PoolTogether,https://www.youtube.com/watch?v=pgFMbXOzDaU,0.0
+What is Decentralized Governance,https://www.youtube.com/watch?v=eqH1zWzp1GM,0.0
+Understanding Decentralized Autonomous Organizations (DAOs),https://www.youtube.com/watch?v=K77bw49gynM,0.0
+Real world potential of DAOs,https://www.youtube.com/watch?v=DaAqpnSTXVk,0.0
+DAO Treasury and Token Management,https://www.youtube.com/watch?v=aYTTLOKE6xo,0.0
+What gives governance tokens value,https://www.youtube.com/watch?v=yYqh4FyLs50,0.0
+What is Aragon,https://coincentral.com/aragon-ant-beginners-guide/,0.0
+How to build a DAO with Aragon,https://www.youtube.com/watch?v=DFpEWATDego,0.0
+What is Snapshot,https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system,0.0
+How to use Snapshot,https://www.youtube.com/watch?v=udgt3bcap6Q,0.0
+Flaws in coin governance and potential solutions,https://vitalik.ca/general/2021/08/16/voting3.html,0.0
+What is Insurance?,https://www.youtube.com/watch?v=o1C7hZWh4Jw,0.0
+How do insurance companies make money,https://www.youtube.com/watch?v=3ctoSEQsY54,0.0
+Smart contract risk,https://coinmarketcap.com/alexandria/article/what-is-smart-contract-risk,0.0
+What is Decentralized Insurance,https://www.youtube.com/watch?v=AIxVyXJ-xnQ,0.0
+Economics of the Insurance Industry and introduction to Nexus Mutual,https://www.youtube.com/watch?v=i97PVvQrcnc,0.0
+The Economics of Nexus Mutual,https://www.youtube.com/watch?v=zZuPJwU55EQ,0.0
+How to buy Insurance with Nexus Mutual,https://www.youtube.com/watch?v=rnzInsKPLR0,0.0
+What is the Ren Protocol,https://www.youtube.com/watch?v=mdoc-Qcc2-8,0.0
+,https://www.youtube.com/watch?v=mdoc-Qcc2-8,0.0
+and renBTC,https://www.youtube.com/watch?v=mdoc-Qcc2-8,0.0
+How to swap BTC for renBTC,https://www.youtube.com/watch?v=kO0672RJL-Q,0.0
+How does ThorChain work,https://www.youtube.com/watch?v=dNDh-mPboPc,0.0
+How to use ThorSwap,https://www.youtube.com/watch?v=o-5hoqucx-c,0.0
+Binance Bridge,https://www.youtube.com/watch?v=8tK5JTIekHk,0.0
+Anyswap,https://www.youtube.com/watch?v=agDoh3twWks,0.0
+"What is Terra, UST, and LUNA",https://www.youtube.com/watch?v=U9lrH0loAns,0.0
+Terra Station Tutorial (how to buy and stake Terra and Luna),https://www.youtube.com/watch?v=6aQAk0Z_y08,0.0
+Initial Coin Offering (ICO),https://www.youtube.com/watch?v=a2Yd9mbfAos,0.0
+Security Token Offering (STO),https://www.youtube.com/watch?v=-h4SZ7Jb8E0,0.0
+Initial Exchange Offering (IEO),https://www.youtube.com/watch?v=jwns5Mkn5Mw,0.0
+Initial DEX offering (IDO),https://www.youtube.com/watch?v=M3I6Hs_AQbU,0.0
+Bonding Curve Offering (BCO),https://medium.com/onomy-protocol/what-is-a-bonding-curve-offering-bco-12518e0a98fc,0.0
+Liquidity Bootstrapping Pool (IBP),https://www.youtube.com/watch?v=p8QD59n-Pe8,0.0
+Initial Farm Offering (IFO),https://coinmarketcap.com/alexandria/glossary/initial-farm-offering-ifo,0.0
+TVL meaning in different DeFi Product Categories,https://medium.com/multi-io/defi-explained-the-tvl-metric-99187587f8f0,0.0
+Double counting problem with TVL,https://cryptonews.com/exclusives/defi-s-total-value-locked-in-metric-is-a-crooked-mirror-7694.htm,0.0
+Airdrops,https://www.youtube.com/watch?v=hyx9bDbWWPE,0.0
+Tokenomics,https://www.finextra.com/blogposting/20638/understanding-tokenomics-the-real-value-of-crypto,0.0
+Understanding Mempool & Miner Extractable Value,https://www.youtube.com/watch?v=vCCYFSAdCFo,0.0
+"Frontrunning, MEV, consensus Instability",https://www.youtube.com/watch?v=vR1v7AQ8i3k,0.0
+Miner Extractable Value (MEV),https://dyor-crypto.fandom.com/wiki/Miner_Extractable_Value_(MEV),0.0
+Risks of DeFi,https://www.youtube.com/watch?v=u4pp7-rLTaY,0.0
+Brief history of DeFi,https://www.youtube.com/watch?v=qFBYB4W2tqU,0.0
+The Future of DeFi,https://www.youtube.com/watch?v=JgzzQ2SBZ50,0.0
+Why financial privacy matters,https://www.reddit.com/r/CryptoCurrency/comments/q6kuop/why_hide_things_privacy_matters_if_you_want_mass/,0.0
+Bitcoin’s biggest weakness,https://www.youtube.com/watch?v=19Km-MEjIRE,0.0
+Increasing privacy on Bitcoin Transactions,https://www.youtube.com/watch?v=JN1Bowgcle8,0.0
+Things to keep in mind,https://bitcoin.org/en/protect-your-privacy,0.0
+What is CoinJoin,https://www.youtube.com/watch?v=jMJkviHOGog,0.0
+Drawbacks of CoinJoin,https://www.youtube.com/watch?v=soeFxWkM5qI,0.0
+Blacklisted Vs Whitelisted Crypto,https://www.youtube.com/watch?v=DQaRnwZIiHg,0.0
+"Blacklists, Taint, and Wallet Fingerprinting",https://www.youtube.com/watch?v=BILcJ3WtdLQ,0.0
+Bitcoin’s Fungibility Graveyard,https://sethforprivacy.com/posts/fungibility-graveyard/,0.0
+CoinJoin Flagging,https://6102bitcoin.com/coinjoin-flagging/,0.0
+"CPU, GPU, and ASIC mining",https://medium.com/phala-network/reading-the-evolution-of-mining-cpu-gpu-asic-phala-87337d88aebd,0.0
+Bitcoin’s ASIC problem,https://www.youtube.com/watch?v=qctnB6DHMLA,0.0
+How could regulators successfully introduce Bitcoin censorship and other dystopias,https://juraj.bednar.io/en/blog-en/2020/11/12/how-could-regulators-successfully-introduce-bitcoin-censorship-and-other-dystopias/,0.0
+Workaround solutions,https://en.bitcoin.it/wiki/Privacy,0.0
+What is Monero (XMR),https://web.getmonero.org/get-started/what-is-monero/,0.0
+Monero Explained,https://www.youtube.com/watch?v=3lgYrhhhVeo,0.0
+Stealth Addresses,https://www.youtube.com/watch?v=bWst278J8NA,0.0
+Ring Signatures,https://www.youtube.com/watch?v=zHN_B_H_fCs,0.0
+Ring Confidential Transactions (RingCT),https://www.youtube.com/watch?v=M3AHp9KgTkQ,0.0
+Standard or Primary Addresses,https://monerodocs.org/public-address/standard-address/,0.0
+Subaddresses,https://monerodocs.org/public-address/subaddress/,0.0
+Integrated Addresses,https://monerodocs.org/public-address/integrated-address/,0.0
+Monero Key Types,https://support.exodus.com/article/1478-monero-faqs-learn-more-about-xmr#key-types,0.0
+One-Time Stealth Addresses (Receiver Privacy),https://serhack.me/articles/what-is-stealth-address-technology-monero/,0.0
+Basic Overview Ring Signatures,https://www.youtube.com/watch?v=de_zNHmSBxQ,0.0
+Ring Signatures in Monero,https://www.youtube.com/watch?v=6k5uOjkLOno,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/ring-signatures.html,0.0
+Zero Knowledge Proof (ZKP),https://www.youtube.com/watch?v=OcmvMs4AMbM,0.0
+Pedersen commitment,https://www.youtube.com/watch?v=IkNZWJFcfcU,0.0
+What is RingCT,https://www.youtube.com/watch?v=N5xKZkDzZW0,0.0
+More on RingCT,https://www.mycryptopedia.com/monero-ring-confidential-transactions-ringct/,0.0
+How does RingCT work,https://monero.stackexchange.com/questions/7716/how-does-ring-confidential-transactions-work/8370,0.0
+What are Bulletproofs,https://www.youtube.com/watch?v=EDaM8A-tAck,0.0
+Range proofs and Bulletproofs,https://monero.stackexchange.com/questions/6781/what-are-bulletproofs,0.0
+Bulletproofs in Monero,https://www.getmonero.org/2017/12/07/Monero-Compatible-Bulletproofs.html,0.0
+Bulletproofs+ in Monero,https://www.getmonero.org/2020/12/24/Bulletproofs+-in-Monero.html,0.0
+Dandelion++,https://localmonero.co/knowledge/monero-dandelion?language=en,0.0
+Dandelion protocol and onion routing,https://www.youtube.com/watch?v=bxQ0ic1Fccs,0.0
+Dandelion and Dandelion++,https://www.monerooutreach.org/stories/dandelion.html,0.0
+Monero as money,https://www.youtube.com/watch?v=aC9Uu5BUxII,0.0
+Tail Emission,https://localmonero.co/knowledge/monero-tail-emission,0.0
+The infinite supply question,https://www.youtube.com/watch?v=QrUl1CuJXTE,0.0
+Dynamic block sizes,https://localmonero.co/knowledge/dynamic-block-size?language=en,0.0
+Transaction Fees,https://www.getmonero.org/2017/12/11/A-note-on-fees.html,0.0
+How to fully audit the entirety of Monero’s supply and reliance on sound cryptography,https://www.reddit.com/r/Monero/comments/9s97yd/how_to_fully_audit_the_entirety_of_moneros_supply/,0.0
+Article,https://www.getmonero.org/2020/01/17/auditability.html,0.0
+Video,https://www.youtube.com/watch?v=meDkx6gRPMg,0.0
+CryptoNight mining algorithm,https://academy.bit2me.com/en/what-is-the-algorithm-of-cryptonight-mining/,0.0
+RandomX mining algorithm,https://academy.bit2me.com/en/which-mining-algorithm-randomx-monero/,0.0
+ASIC-Resistant Proof of Work and road to RandomX in Monero,https://www.youtube.com/watch?v=4Hkd-n1W_e4,0.0
+Transcript,https://www.monerooutreach.org/monero-konferenco/howard-chu.html,0.0
+0 decoy,https://www.youtube.com/watch?v=1CfXHC2IFx4,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/decoy-chain-reactions.html,0.0
+How Monero protects against double spend attacks,https://monero.stackexchange.com/questions/2158/what-is-moneros-mechanism-for-defending-against-a-double-spend-attack,0.0
+Chain Splits (Key Image Reuse Attack,https://www.youtube.com/watch?v=6CVcirD90pg,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/chain-splits.html,0.0
+Input Selection Algorithm,https://www.youtube.com/watch?v=Sn44ahKxC1E,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/input-selection-algorithm.html,0.0
+Unusual Ringsizes,https://www.youtube.com/watch?v=8rbR1WMUr14,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/unusual-ringsize.html,0.0
+Remote Nodes,https://www.youtube.com/watch?v=n6Bxp0k7Uqg,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/remote-nodes.html,0.0
+Timing Attacks,https://www.youtube.com/watch?v=v77trz2VlLs,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/timing-attacks.html,0.0
+Poisoned Outputs (EAE Attack),https://www.youtube.com/watch?v=iABIcsDJKyM,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/poisoned-outputs.html,0.0
+What is Churning,https://monero.stackexchange.com/questions/4565/what-is-churning,0.0
+Public Mining Pools data leaks,https://www.youtube.com/watch?v=39HSRvuRgAo,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/public-mining-pools.html,0.0
+Miscellaneous,https://www.youtube.com/watch?v=q1gdYWsvXDU,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/mailbag-episode.html,0.0
+Input/Output Metadata,https://www.youtube.com/watch?v=-zJpvsj1rWE,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/metadata.html,0.0
+Blockchain Explorer OpSec,https://www.youtube.com/watch?v=_A6k4RQ-uIE,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/blockchain-explorers.html,0.0
+Advisory note for users making use of subaddresses,https://web.getmonero.org/2019/10/18/subaddress-janus.html,0.0
+Subaddress Association (Janus Attack),https://www.youtube.com/watch?v=M_IYzzC5Zqk,0.0
+Transcript,https://www.monerooutreach.org/breaking-monero/subaddress-association-janus-attack.html,0.0
+"The Strange Birth & History of Monero, Part I: WTF is Bytecoin?",https://www.reddit.com/r/Monero/comments/3f2fpd/the_strange_birth_history_of_monero_part_i_wtf_is/,0.0
+"The Strange Birth & History of Monero, Part II: BitMonero",https://www.reddit.com/r/Monero/comments/5h15rh/the_strange_birth_history_of_monero_part_ii/,0.0
+"The Strange Birth & History of Monero, Part III: Decentralized team",https://www.reddit.com/r/Monero/comments/5hhpzq/the_strange_birth_history_of_monero_part_iii/,0.0
+"The Strange Birth & History of Monero, Part IV: Monero “as it is now”",https://www.reddit.com/r/Monero/comments/5hvwu8/the_strange_birth_history_of_monero_part_iv/,0.0
+Satoshi’s Vision,https://twitter.com/binaryFate/status/1215265006146719746,0.0
+Monero vs BTC,https://www.youtube.com/watch?v=HXM31JPCk-Q,0.0
+Growing Adoption,https://i.redd.it/ihiiwk6o9zy71.jpg,0.0
+Why fungibility matters,https://www.youtube.com/watch?v=Qn9osUee-0A,0.0
+Disp,https://sethforprivacy.com/posts/dispelling-monero-fud/,0.0
+e,https://sethforprivacy.com/posts/dispelling-monero-fud/,0.0
+lling Monero FUD,https://sethforprivacy.com/posts/dispelling-monero-fud/,0.0
+Intro to Zcash and Comparison to Bitcoin,https://dcxlearn.com/blockchain/zcash/,0.0
+Zcash 101 (from the Electric Coin Company),https://youtu.be/AMNRCNTh4ec?t=242,0.0
+Zcash profile,https://messari.io/asset/zcash/profile,0.0
+Anatomy of A Zcash Transaction,https://electriccoin.co/blog/anatomy-of-zcash/,0.0
+What are zk-SNARKs?,https://z.cash/technology/zksnarks/,0.0
+How Transactions Between Shielded Addresses Work,https://electriccoin.co/blog/zcash-private-transactions/,0.0
+The Encrypted Memo Field,https://electriccoin.co/blog/encrypted-memo-field/,0.0
+Viewing Keys,https://electriccoin.co/blog/explaining-viewing-keys/,0.0
+"Funding, Incentives, and Governance",https://electriccoin.co/blog/funding/,0.0
+A Look at the Zcash Dev Fund Process – Josh Cincinnati (Executive Director of the Zcash Foundation),https://www.youtube.com/watch?v=z6dF0fK4cwE,0.0
+Zcash Development Funding,https://www.youtube.com/watch?v=eJ0h5Q5jijw,0.0
+Reaching consensus,https://electriccoin.co/reaching-consensus/,0.0
+Migrating to Equihash,https://electriccoin.co/blog/why-equihash/,0.0
+Understanding the Generalized Birthday Problem,https://www.youtube.com/watch?v=KtT_cgMzHx8,0.0
+How does Equihash work?,https://academy.bit2me.com/en/what-is-equihash-mining-algorithm/,0.0
+Zcash Company Statement on ASICs,https://electriccoin.co/blog/zcash-company-statement-on-asics/,0.0
+Zcash ceremony,https://www.youtube.com/watch?v=D6dY-3x3teM&feature=youtu.be,0.0
+Trusted setup,https://minezcash.com/zcash-trusted-setup/,0.0
+What is Secure Multiparty Computation (SMC)?,https://inpher.io/technology/what-is-secure-multiparty-computation/,0.0
+"Zero Knowledge Proofs, Zcash, Sprout, Sapling & zkSnarks",https://youtu.be/S1cGQDi-yS8,0.0
+Turnstile,https://electriccoin.co/blog/turnstile-enforcement-against-counterfeiting/,0.0
+Disclosure by Zcash team,https://electriccoin.co/blog/zcash-counterfeiting-vulnerability-successfully-remediated/,0.0
+Analysis by Monero devs,https://www.youtube.com/watch?v=nk0jpn2ejG4,0.0
+History and future of Zcash,https://www.youtube.com/watch?v=ibA_4kwd_YI,0.0
+History of zk-SNARKs in Zcash,https://www.youtube.com/watch?v=KdkVTEHUxgo,0.0
+User Defined Assets (UDAs),https://www.youtube.com/watch?v=hJMWE3zLIcs,0.0
